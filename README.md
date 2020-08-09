@@ -2,17 +2,7 @@
 
 A new Flutter application.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-# Flute Music Player Plugin Only
-*Updated to androidx*
-First Open Source Flutter based material design music player with audio plugin to play local music files.(Online Radio will be added soon.)
-
 ## Features
-
-* [x] Android (iOS Coming Soon)
 
   * [x] Fetch local songs (Inbuilt Permission)
   * [x] Beautiful UI with multiple themes(Coming Soon)
