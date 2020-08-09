@@ -21,9 +21,6 @@ A new Flutter application.
 
   * [Android](https://developer.android.com/guide/topics/media/media-formats.html)
 
-### Show some :heart: and star the repo to support the project
-
-* Please note this is a plugin only. Actual project's link is below
 
 ## Music Player Development Project
 
