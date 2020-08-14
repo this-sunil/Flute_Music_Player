@@ -363,7 +363,7 @@ Future pause() async {
                     icon: Icon(isPlaying?Icons.pause_circle_outline:Icons.play_circle_outline,color: Colors.teal),
                     onPressed: () {
                       setState(() {
-                        isPlaying?pause():play(song);
+                        isPlaying?stop():play(widget.song);
                       });
                     },
                   ),
