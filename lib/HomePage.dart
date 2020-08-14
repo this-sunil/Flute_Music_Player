@@ -11,6 +11,7 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   SongData songData;
+  Song song;
   List<Song> songs;
   @override
   void initState() { 
@@ -37,5 +38,6 @@ class _HomePageState extends State<HomePage> {
     });
   }
   @override
-  Widget build(BuildContext context) => MPInheritedWidget(songData,MusicPage());
+  Widget build(BuildContext context) => MPInheritedWidget(songData,song,MusicPage());
 }
+
