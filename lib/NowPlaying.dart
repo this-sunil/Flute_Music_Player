@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'dart:io';
-import 'package:cycles/Notifications/song.dart';
+import 'package:cycles/song.dart';
 import 'package:flute_music_player/flute_music_player.dart';
 import 'package:flutter/material.dart';
 import 'package:volume/volume.dart';
