@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'dart:io';
-import 'package:cycles/song.dart';
+import 'package:cycles/Notifications/song.dart';
 import 'package:flute_music_player/flute_music_player.dart';
 import 'package:flutter/material.dart';
 import 'package:volume/volume.dart';
@@ -149,6 +149,9 @@ Future pause() async {
     }
     setState(() {
       song=widget.song;
+      if (playerState != PlayerState.stopped) {
+          stop();
+        }
     });
       musicFinder.setDurationHandler((d) {
       setState(() {
@@ -363,7 +366,7 @@ Future pause() async {
                     icon: Icon(isPlaying?Icons.pause_circle_outline:Icons.play_circle_outline,color: Colors.teal),
                     onPressed: () {
                       setState(() {
-                        isPlaying?stop():play(widget.song);
+                        isPlaying?pause():play(song);
                       });
                     },
                   ),
