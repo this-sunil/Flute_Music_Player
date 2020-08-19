@@ -15,10 +15,7 @@ import io.flutter.embedding.engine.plugins.shim.ShimPluginRegistry;
 public final class GeneratedPluginRegistrant {
   public static void registerWith(@NonNull FlutterEngine flutterEngine) {
     ShimPluginRegistry shimPluginRegistry = new ShimPluginRegistry(flutterEngine);
-      xyz.luan.audioplayers.AudioplayersPlugin.registerWith(shimPluginRegistry.registrarFor("xyz.luan.audioplayers.AudioplayersPlugin"));
       com.mtechviral.musicfinder.MusicFinderPlugin.registerWith(shimPluginRegistry.registrarFor("com.mtechviral.musicfinder.MusicFinderPlugin"));
-      com.tarafdari.flutter_media_notification.FlutterMediaNotificationPlugin.registerWith(shimPluginRegistry.registrarFor("com.tarafdari.flutter_media_notification.FlutterMediaNotificationPlugin"));
-    flutterEngine.getPlugins().add(new io.flutter.plugins.pathprovider.PathProviderPlugin());
       com.example.systemshortcuts.SystemShortcutsPlugin.registerWith(shimPluginRegistry.registrarFor("com.example.systemshortcuts.SystemShortcutsPlugin"));
     flutterEngine.getPlugins().add(new com.example.volume.VolumePlugin());
   }
