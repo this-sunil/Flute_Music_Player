@@ -17,20 +17,8 @@ A new Flutter application.
   * [x] onComplete
   * [x] onDuration / onCurrentPosition
 
-* Supported formats
+![Screenshot_20200819-150356](https://user-images.githubusercontent.com/51407211/90618812-17916900-e22e-11ea-93b9-1ff3d28a4515.png)
 
-  * [Android](https://developer.android.com/guide/topics/media/media-formats.html)
-
-
-## Music Player Development Project
-
-[Flutter Beautiful Music Player](https://github.com/surya88i/Flute-Music-Player)
-
-### Screenshots
-
-<img src="![Screenshot_20200819-150356](https://user-images.githubusercontent.com/51407211/90618812-17916900-e22e-11ea-93b9-1ff3d28a4515.png)
-" height="300em" /> 
-<img src="flute1.png" height="300em" /> <img src="flute2.png" height="300em" /> <img src="flute3.png" height="300em" /> <img src="flute4.png" height="300em" /><img src="flute5.png" height="300em" />
 
 ## Usage
 
