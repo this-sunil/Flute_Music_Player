@@ -1,5 +1,5 @@
-import 'package:cycles/MusicPage.dart';
-import 'package:cycles/song.dart';
+import 'package:music/MusicPage.dart';
+import 'package:music/song.dart';
 import 'package:flute_music_player/flute_music_player.dart';
 import 'package:flutter/material.dart';
 import 'MPInheritedWidget.dart';
@@ -40,4 +40,3 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) => MPInheritedWidget(songData,song,MusicPage());
 }
-

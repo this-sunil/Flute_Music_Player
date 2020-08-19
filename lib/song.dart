@@ -42,3 +42,4 @@ class SongData {
 
   MusicFinder get audioPlayer => musicFinder;
 }
+
