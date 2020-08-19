@@ -2,15 +2,46 @@
 
 A new Flutter application.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* [x] Android (iOS Coming Soon)
 
-A few resources to get you started if this is your first Flutter project:
+  * [x] Fetch local songs (Inbuilt Permission)
+  * [x] Beautiful UI with multiple themes(Coming Soon)
+  * [x] Animation
+  * [x] Full Fledged Example
+  * [x] play (local files)
+  * [x] stop
+  * [x] pause
+  * [x] seek
+  * [x] shuffle
+  * [x] Album Art
+  * [x] onComplete
+  * [x] onDuration / onCurrentPosition
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* Supported formats
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  * [Android](https://developer.android.com/guide/topics/media/media-formats.html)
+
+
+
+### Screenshots
+
+
+
+* Note - This project also has a plugin to fetch songs and use audio player which can be used in any of your projects. Check the below link.
+
+### Flute Music Player Plugin
+
+[Plugin](https://github.com/iampawan/Flute-Music-Player)
+
+## iOS
+
+### Alert: iOS implementation
+
+This project is not implemented for ios yet.So wait for it or if you can contribute then please do help.
+
+
+
+
+
