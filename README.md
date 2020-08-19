@@ -19,6 +19,7 @@ A new Flutter application.
 
 ![Screenshot_20200819-150356](https://user-images.githubusercontent.com/51407211/90618812-17916900-e22e-11ea-93b9-1ff3d28a4515.png)
 
+![Screenshot_20200819-150425](https://user-images.githubusercontent.com/51407211/90619320-bae27e00-e22e-11ea-88ec-79fbd2b0ed0f.png)
 
 ## Usage
 
