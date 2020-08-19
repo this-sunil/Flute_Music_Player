@@ -30,6 +30,11 @@ A new Flutter application.
 
 ![Screenshot_20200819-150356](https://user-images.githubusercontent.com/51407211/90623624-5d513000-e234-11ea-8c53-c86e55053d33.png)
 
+![Screenshot_20200819-150425](https://user-images.githubusercontent.com/51407211/90623965-de102c00-e234-11ea-9ce7-c58d404c6e71.png)
+
+
+
+
 
 * Note - This project also has a plugin to fetch songs and use audio player which can be used in any of your projects. Check the below link.
 
