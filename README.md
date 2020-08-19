@@ -28,7 +28,7 @@ A new Flutter application.
 ### Screenshots
 
 
-<img src="https://user-images.githubusercontent.com/51407211/90623624-5d513000-e234-11ea-8c53-c86e55053d33.png" height="540px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/51407211/90623965-de102c00-e234-11ea-9ce7-c58d404c6e71.png" height="540px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/51407211/90625173-ccc81f00-e236-11ea-84a6-1a085a17d53f.png" height="540px">
+<img src="https://user-images.githubusercontent.com/51407211/90623624-5d513000-e234-11ea-8c53-c86e55053d33.png" height="570px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/51407211/90623965-de102c00-e234-11ea-9ce7-c58d404c6e71.png" height="570px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/51407211/90625173-ccc81f00-e236-11ea-84a6-1a085a17d53f.png" height="570px">
 
 
 
