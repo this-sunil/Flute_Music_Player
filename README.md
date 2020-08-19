@@ -28,10 +28,7 @@ A new Flutter application.
 ### Screenshots
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/51407211/90623624-5d513000-e234-11ea-8c53-c86e55053d33.png" height="500px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/51407211/90623965-de102c00-e234-11ea-9ce7-c58d404c6e71.png" height="500px">
-
-![Screenshot_20200819-161121](https://user-images.githubusercontent.com/51407211/90625173-ccc81f00-e236-11ea-84a6-1a085a17d53f.png)
-![Screenshot_20200819-161129](https://user-images.githubusercontent.com/51407211/90625358-1284e780-e237-11ea-8399-1dc44cecee79.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/51407211/90623624-5d513000-e234-11ea-8c53-c86e55053d33.png" height="500px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/51407211/90623965-de102c00-e234-11ea-9ce7-c58d404c6e71.png" height="500px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/51407211/90625173-ccc81f00-e236-11ea-84a6-1a085a17d53f.png" height="500px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/51407211/90625358-1284e780-e237-11ea-8399-1dc44cecee79.png" height="500px">
 
 
 
